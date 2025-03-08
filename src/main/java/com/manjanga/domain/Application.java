@@ -1,4 +1,4 @@
-package com.manjanga.api_project;
+package com.manjanga.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

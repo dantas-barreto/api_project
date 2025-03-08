@@ -1,4 +1,4 @@
-package com.manjanga.api_project;
+package com.manjanga.domain;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
