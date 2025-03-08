@@ -30,7 +30,7 @@ classDiagram
     -Number limit
   }
 
-  class Account {
+  class News {
     -String icon
     -String description
   }
